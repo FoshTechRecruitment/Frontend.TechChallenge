@@ -14,6 +14,8 @@ OR
 - publish the project in a publicly accessable repository platform such as **GitHub**.
 
 API: https://pokeapi.co/.
+API Documentation: https://pokeapi.co/docs/v2
+Endpoint to list Pokemons: https://pokeapi.co/docs/v2#pokemon
 
 ### Core application:
 - Search for a pokemon
@@ -36,6 +38,10 @@ Here you can find a few ideas which you can pick from! It's not mandatory, but a
 - e2e tests
 - Multi API enviroment support (only only production API, but could be easily modified to others url)
 - Have it deployed somewhere (f.e. https://heroku.com/)
+
+### Backend requirements
+This is only for candidates applying for backend position.
+
 - Dockerize it
 - Consume `trainers.json` and display on the pokemon detail which trainers have that pokemon
 - Good application monitoring
