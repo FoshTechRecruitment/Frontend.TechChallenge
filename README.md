@@ -13,9 +13,10 @@ OR
 
 - publish the project in a publicly accessable repository platform such as **GitHub**.
 
-API: https://pokeapi.co/.
-API Documentation: https://pokeapi.co/docs/v2
-Endpoint to list Pokemons: https://pokeapi.co/docs/v2#pokemon
+### API 
+https://pokeapi.co/
+- API Documentation: https://pokeapi.co/docs/v2
+- Endpoint to list Pokemons: https://pokeapi.co/docs/v2#pokemon
 
 ### Core application:
 - Search for a pokemon
